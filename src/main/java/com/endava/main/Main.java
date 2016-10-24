@@ -1,5 +1,6 @@
 package com.endava.main;
 
+import com.endava.users.AdrianM;
 import com.endava.users.CatalinC;
 import com.endava.users.RazvanS;
 
@@ -12,5 +13,6 @@ public class Main {
         System.out.println("And the winners are:");
         CatalinC.myName();
         RazvanS.myName();
+        AdrianM.myName();
     }
 }
