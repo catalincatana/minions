@@ -8,7 +8,7 @@ import com.endava.users.OvidiuG;
 import com.endava.users.DanielS;
 import com.endava.users.NicolaeC;
 import com.endava.users.MariaT;
->>>>>>> 86d280e6a723f4a0ef9fe63229e00c5cf607d4a7
+import com.endava.users.RamonaB;
 import com.endava.users.RazvanS;
 
 /**
@@ -25,5 +25,6 @@ public class Main {
         OvidiuG.myName();
         NicolaeC.sayMyName();
         MariaT.myName();
+        RamonaB.afisare_nume();
     }
 }
