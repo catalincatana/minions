@@ -26,5 +26,6 @@ public class Main {
         IrinaS.myName();
         RamonaB.afisare_nume();
         IuliaN.myName();
+        GeaninaA.myName();
     }
 }
