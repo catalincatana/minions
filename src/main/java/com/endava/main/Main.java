@@ -1,11 +1,11 @@
 package com.endava.main;
 
-import com.endava.users.AdrianM;
-import com.endava.users.CatalinC;
+import com.endava.users.*;
 import com.endava.users.DanielS;
 import com.endava.users.NicolaeC;
 import com.endava.users.OvidiuG;
 import com.endava.users.MariaT;
+import com.endava.users.RamonaB;
 import com.endava.users.RazvanS;
 import com.endava.users.IrinaS;
 
@@ -24,5 +24,7 @@ public class Main {
         NicolaeC.sayMyName();
         MariaT.myName();
         IrinaS.myName();
+        RamonaB.afisare_nume();
+        IuliaN.myName();
     }
 }
