@@ -2,6 +2,7 @@ package com.endava.main;
 
 import com.endava.users.AdrianM;
 import com.endava.users.CatalinC;
+import com.endava.users.RamonaB;
 import com.endava.users.RazvanS;
 
 /**
@@ -14,5 +15,6 @@ public class Main {
         CatalinC.myName();
         RazvanS.myName();
         AdrianM.myName();
+        RamonaB.afisare_nume();
     }
 }
