@@ -28,5 +28,6 @@ public class Main {
         IuliaN.myName();
         GeaninaA.myName();
         LauraL.myName();
+        CataC.myName();
     }
 }
