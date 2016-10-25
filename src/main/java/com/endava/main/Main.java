@@ -29,5 +29,6 @@ public class Main {
         GeaninaA.myName();
         LauraL.myName();
         CataC.myName();
+        CalinC.display();
     }
 }
